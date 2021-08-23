@@ -7,6 +7,7 @@
 body {
     background-image: url("/assets/img/tbg.png");
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header {
@@ -43,7 +44,7 @@ header {
     transform: rotate(270deg);
     margin-top: 372px;
     position: absolute;
-    left: -132px;
+    left: -155px;
     ul {
         display: flex;
         justify-content: space-around;

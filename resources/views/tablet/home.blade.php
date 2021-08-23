@@ -7,7 +7,7 @@
                 PESCADORES E <br> CONSUMIDORES
             </h1>
             <div class="conhecer">
-                <a href="/t-sobre" class="btn btn-conheca">CONHEÇA</a>
+                <a href="/sobre" class="btn btn-conheca">CONHEÇA</a>
             </div>
         </div>
         <div class="homem">

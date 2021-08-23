@@ -15,7 +15,7 @@
             </div>
 
             <div class="conhecer">
-                <a href="" class="btn btn-conheca">REGISTA-TE</a>
+                <a href="/registrar" class="btn btn-conheca">REGISTA-TE</a>
             </div>
         </div>
         <div class="rapaz">

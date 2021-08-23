@@ -27,19 +27,19 @@
         <nav>
             <ul>
                 <li>
-                    <a href="/t-sobre">SOBRE</a>
+                    <a href="/sobre">SOBRE</a>
                 </li>
                 <li>
                     <a href="">BLOG</a>
                 </li>
                 <li>
-                    <a href="/t-home">
+                    <a href="/">
                         <img src="assets/img/logo.png" alt="">
                     </a>
                 </li>
 
                 <li>
-                    <a href="t-registrar">REGISTA-TE</a>
+                    <a href="/registrar">REGISTA-TE</a>
                 </li>
             </ul>
         </nav>
